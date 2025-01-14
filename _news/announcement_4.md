@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Poster presentation at BMES 2023 in Seattle, WA. 
+Delivered a poster presentation at BMES 2023 in Seattle, WA. 
 

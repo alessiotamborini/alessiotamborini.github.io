@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A brief talk about turning ideas into inventions with Caltech ENGenuity. Read the full article here, <a href = "https://engenuity.caltech.edu/stories/Charting-the-Course-for-Invention">[Link]</a>.
+A talk about turning ideas into inventions with Caltech ENGenuity. Read the full article here, <a href = "https://engenuity.caltech.edu/stories/Charting-the-Course-for-Invention">[Link]</a>.

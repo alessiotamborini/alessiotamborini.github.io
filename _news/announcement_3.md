@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Poster presentation at BMES 2022 in San Antonio, TX. 
+Delivered a poster presentation at BMES 2022 in San Antonio, TX. 
 
