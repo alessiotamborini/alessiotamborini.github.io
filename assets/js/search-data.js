@@ -65,8 +65,8 @@ ninja.data = [{
           section: "News",},{id: "news-caltech-magazine-featured-some-of-my-work-studying-how-blood-pressure-waves-can-be-used-for-diagnostic-purposes-read-the-full-article-here-link",
           title: 'Caltech Magazine featured some of my work studying how blood pressure waves can...',
           description: "",
-          section: "News",},{id: "news-attended-aha-2024-scientific-sessions-in-chicago-il-abstract",
-          title: 'Attended AHA 2024 Scientific Sessions in Chicago, IL. [ABSTRACT]',
+          section: "News",},{id: "news-attended-aha-2024-scientific-sessions-in-chicago-il-abstract-abstract-2",
+          title: 'Attended AHA 2024 Scientific Sessions in Chicago, IL. [ABSTRACT] [ABSTRACT 2]',
           description: "",
           section: "News",},{
         id: 'social-email',
