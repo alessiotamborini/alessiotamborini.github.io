@@ -68,6 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-at-aha-2024-scientific-sessions-in-chicago-il-abstract-abstract-2",
           title: 'Presented at AHA 2024 Scientific Sessions in Chicago, IL. [ABSTRACT] [ABSTRACT 2]',
           description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-work-has-been-featured-on-the-journal-of-the-proceedings-of-the-national-academy-of-sciences-pnas-read-the-full-article-here-link",
+          title: 'Excited to share that our work has been featured on the Journal of...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
