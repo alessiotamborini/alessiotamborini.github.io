@@ -73,6 +73,11 @@ ninja.data = [{
           description: "Excited to share that our work has been featured in PNAS.",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-new-patent-published-in-google-scholar",
+          title: 'New patent published in Google Scholar.',
+          description: "New patent published in Google Scholar.",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{
         id: 'social-email',
         title: 'email',
