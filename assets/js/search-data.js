@@ -78,6 +78,14 @@ ninja.data = [{
           description: "New patent published in Google Scholar.",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-our-new-paper-on-decoding-vascular-age-from-peripheral-waveform-measurements-has-been-published-in-machine-learning-health-link-to-the-full-article-link",
+          title: 'Our new paper on decoding vascular age from peripheral waveform measurements has been...',
+          description: "",
+          section: "News",},{id: "news-a-cuff-sized-window-to-the-heart-jacc-adv",
+          title: 'A cuff-sized window to the heart - JACC Adv.',
+          description: "Excited to share that our work has been featured in JACC Advances.",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
             },},{
         id: 'social-email',
         title: 'email',
