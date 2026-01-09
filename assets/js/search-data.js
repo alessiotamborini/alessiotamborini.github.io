@@ -86,7 +86,10 @@ ninja.data = [{
           description: "Excited to share that our work has been featured in JACC Advances.",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12/";
-            },},{
+            },},{id: "news-dr-gakenheimer-continues-to-support-my-research-efforts-in-medical-devices-through-a-new-research-fund-read-the-full-interview-about-his-most-recent-contributions-link",
+          title: 'Dr. Gakenheimer continues to support my research efforts in medical devices through a...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
