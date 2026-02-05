@@ -89,7 +89,12 @@ ninja.data = [{
             },},{id: "news-dr-gakenheimer-continues-to-support-my-research-efforts-in-medical-devices-through-a-new-research-fund-read-the-full-interview-about-his-most-recent-contributions-link",
           title: 'Dr. Gakenheimer continues to support my research efforts in medical devices through a...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-featured-by-caltech-on-their-linkedin-page",
+          title: 'Featured by Caltech on their LinkedIn Page',
+          description: "Featured by Caltech on their LinkedIn Page",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_14/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
