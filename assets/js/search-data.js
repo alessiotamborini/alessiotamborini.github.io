@@ -94,6 +94,11 @@ ninja.data = [{
           description: "Featured by Caltech on their LinkedIn Page",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_14/";
+            },},{id: "news-pulseai-our-machine-learning-algorithm-for-fiducial-point-detection-is-now-published-in-bspc",
+          title: 'PulseAI - our machine learning algorithm for fiducial point detection - is now...',
+          description: "Our work on a machine learning algorithm for fiducial point detectioin in cardiac waveforms has been published in BSPC.",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_15/";
             },},{
         id: 'social-email',
         title: 'email',
