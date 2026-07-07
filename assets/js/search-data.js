@@ -99,7 +99,10 @@ ninja.data = [{
           description: "Our work on a machine learning algorithm for fiducial point detectioin in cardiac waveforms has been published in BSPC.",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{
+            },},{id: "news-preprint-of-our-work-on-a-novel-application-of-metallic-ultrasound-waveguides-as-distributed-tactile-sensors-link-to-the-arxiv-preprint-link",
+          title: 'Preprint of our work on a novel application of metallic ultrasound waveguides as...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
